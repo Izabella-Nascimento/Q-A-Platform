@@ -1,0 +1,34 @@
+#button-color{
+  background-color: #ee5728;
+  width: 10%;
+  border: none;
+  border-radius: 30px;
+  height: 41px;
+  cursor: pointer;
+
+}
+
+#button-color:hover{
+  background: #c74720;
+  transition: 0.5s;
+}
+
+#card-form {
+  margin-top: 5vh;
+}
+
+#card-header-part {
+  color: #53504f;
+}
+
+#navbar-background {
+  background-color: #ee5728 !important;
+}
+
+body{
+  background-color: #d0d1d3;
+}
+
+nav img{
+  width: 110px;
+}
